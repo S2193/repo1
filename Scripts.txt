@@ -1,0 +1,18 @@
+Scirpt to take Databackup:
+#mysqldump -udbuser -pdbpass -hflipkart.rds.aws.com flipkart > flipkart-db.sql
+
+#v_user=$1
+v_user=$2
+v_host=$3
+v_dbname=$4
+mysqldump -u$v_user -p$v_pass -h$v_host $v_db_b_name > $v_dbname.sql
+
+
+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 - Git hub Token
+
+export M2_HOME=/usr/local/mavan
+export PATH=${M2_HOME}/bin:${PATH} ====> To set .bash command
+
+https://github.com/mailrahulsre/trainingwale.git ===> javaproject
+
+https://github.com/mailrahulsre/java-db-Login.git
